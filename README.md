@@ -2,7 +2,12 @@
 #### Developer
 I'm a junior programmer who's eager to learn new technologies and enjoying tackling complex problems and finding efficient solutions.
 
-Skills: JAVA / C#/ SQL/ HTML / CSS
+###Skills and Experience
+* JAVA  
+* C#
+* SQL
+* HTML  
+* CSS
 
 - 🔭 I’m currently working on this page. 
 
