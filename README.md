@@ -1,5 +1,15 @@
 ## Hi there, I'm Christos 👋
 
-Eager to learn new technologies and enjoying tackling complex problems and finding efficient solutions.
+### Hi there 👋, I'm Christos
+#### Developer
+![Developer](https://github.blog/wp-content/uploads/2024/07/github-logo.png)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristosTsavos)](https://github.com/anuraghazra/github-readme-stats)
+I'm a junior programmer who's eager to learn new technologies and enjoying tackling complex problems and finding efficient solutions.
+
+Skills: JAVA / C#/ SQL/ HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
