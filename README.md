@@ -8,6 +8,8 @@ I'm a junior programmer who's eager to learn new technologies and enjoying tackl
 * SQL
 * HTML  
 * CSS
+* SAP BASIS / ABAP / HANA
+* 6months Intership at ITechSolutions 
 
 - 🔭 I’m currently working on this page. 
 
