@@ -12,7 +12,7 @@ I'm a junior programmer who's eager to learn new technologies and enjoying tackl
 
 - 🔭 I’m currently working on this page.
 
-- ###My Resposetories
+- ### My Resposetories
   
 
 
