@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Christos
-#### Developer
+
 I'm a junior programmer who's eager to learn new technologies and enjoying tackling complex problems and finding efficient solutions.
 
 ### Skills and Experience
